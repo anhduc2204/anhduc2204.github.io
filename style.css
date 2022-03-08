@@ -44,6 +44,7 @@ body{
     bottom: 30px;
     transform-origin: 50% 50%;
     animation: doikichthuoc linear 0.5s infinite ;
+    left: 300px;
 }
 @keyframes doikichthuoc{
     0%{
